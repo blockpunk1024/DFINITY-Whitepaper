@@ -12,4 +12,4 @@ https://dfinity.org/whitepaper.pdf
 - 第六章由 @LouisL. 认领
 - 第七章由 @blockpunk 认领
 - 第八章由 @blockpunk 认领
-- （DFINITY 中国团队负责最终的校对与审核）
+- (DFINITY 中国团队负责校对)
