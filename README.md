@@ -8,7 +8,8 @@ https://dfinity.org/whitepaper.pdf
 - 第二章由 @FrankyFreeman 认领
 - 第三章由 @Yoka 与 @层楼 认领
 - 第四章由 @有匪君子 认领
-- 第五章未认领
-- 第六章未认领
+- 第五章由 @lenville 认领
+- 第六章由 @LouisL. 认领
 - 第七章由 @blockpunk 认领
 - 第八章由 @blockpunk 认领
+- （DFINITY 中国团队负责最终的校对与审核）
