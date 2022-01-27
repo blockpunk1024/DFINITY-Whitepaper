@@ -5,7 +5,7 @@ https://dfinity.org/whitepaper.pdf
 <br>
 ### 简体中文翻译工作分配：
 - 第一章由 @jiangweifeng 认领
-- 第二章由 @FrankyFreeman 认领
+- 第二章由 @Junwei Fang 认领
 - 第三章由 @Yoka 与 @层楼 认领
 - 第四章由 @有匪君子 认领
 - 第五章由 @lenville 认领
